@@ -1,0 +1,20 @@
+
+/* elemento nombre_clase{ 
+
+} */
+
+p.verd{
+    color: green;
+}
+
+p.blau{
+    color: blue;
+}
+
+p.roig{
+    color: red;
+}
+
+p#identificador{
+    color: blue;
+}
